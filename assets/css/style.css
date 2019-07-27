@@ -58,7 +58,7 @@ h1 h2 h3 h4 p {
 h1 h2 h3 h4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 700;
-    color: red;
+    color:gray;
 }
 h1 {
     font-size: 30px;
@@ -116,5 +116,21 @@ footer {
     color: black;
 
 }
+
+
+/*portfolio/*/
+
+.work {
+    width: 250px;
+    overflow: auto;
+    position: inherit;
+    float: left;
+    margin: 1px 1px;
+}
+
+    
+
+
+
 
 
